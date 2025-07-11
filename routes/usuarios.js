@@ -1,6 +1,6 @@
 const express = require('express');
 const { body, validationResult } = require('express-validator');
-const Usuario = require('../models/Usuario');
+const Usuario = require('../Models/Usuario');
 const router = express.Router();
 
 // Validações para criação de usuário
