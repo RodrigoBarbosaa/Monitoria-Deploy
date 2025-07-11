@@ -1,5 +1,10 @@
-# API de Usuários - Backend Node.js
+# Desafio:
+* Faça o deploy da sua aplicação BackEnd ou FrontEnd dos desafios das monitorias passadas utilizando uma das plataformas mostradas na monitoria. Coloque o Link do Github usado no deploy, e o link da aplicção (FrontEnd) ou um CURL para teste (Backend). 
 
+
+
+
+### Exemplo de deploy Backend utilizado na monitoria:
 Uma API RESTful simples para gerenciamento de usuários usando Node.js, Express e MongoDB Atlas.
 
 ## 🚀 Estrutura do Projeto
