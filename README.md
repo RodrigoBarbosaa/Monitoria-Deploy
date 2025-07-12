@@ -1,5 +1,5 @@
 # Desafio:
-* Faça o deploy da sua aplicação BackEnd ou FrontEnd dos desafios das monitorias passadas utilizando uma das plataformas mostradas na monitoria. Coloque o Link do Github usado no deploy, e o link da aplicação/api para testes. 
+* Faça o deploy da sua aplicação BackEnd ou FrontEnd dos desafios das monitorias passadas utilizando uma das plataformas mostradas na monitoria de deploy. Coloque o Link do Github usado no deploy, e o link da aplicação/api para testes. 
 
 
 
